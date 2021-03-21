@@ -1,0 +1,246 @@
+*{
+	padding: 0;
+	margin:0;
+	text-decoration: none;
+	font-family: cursive;
+}
+.mané{
+	width: 100%;
+	background-color:purple;
+    padding:15px auto;
+	position: fixed;
+	height: 60px;
+}
+.mané .maria{
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+}
+.yama a {
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+}
+.yama a span{
+	color: pink;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li{
+	display: inline-block;
+}
+.menu li a{
+	color:white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+}
+.menu li a:hover{
+	color: pink;
+
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .sous{
+	display: block;
+}
+.sous li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.aicha{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .aicha{
+	display: block;
+}
+.aicha li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.khady{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .khady{
+	display: block;
+}
+.khady li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.MA{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .MA{
+	display: block;
+}
+.MA li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.ouly{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .ouly{
+	display: block;
+}
+.ouly li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+#dieyna img{
+	width: 400px;
+	height: 700px;
+	margin-left: 3px;
+}
+#mami img{
+      width: 465px;
+	height: 700px;
+	margin-left: -45px;
+	margin-top: -1px;
+}
+#coumba img{
+      width: 445px;
+	height: 700px;
+	margin-right: -20px;
+	margin-top: -1px;
+}
+#coco img{
+      width: 400px;
+	height: 700px;
+	margin-left: 5px;
+	margin-top: 0;
+}
+#coco1 img{
+      width: 478px;
+	height: 700px;
+	margin-left: 505px;
+	margin-top: -399px;
+}
+#awa img{
+      width: 400px;
+	height: 700px;
+	margin-left: 5px;
+	margin-top: -1px;
+}
+#adama img{
+      width: 90%;
+	height: 700px;
+	margin-left: 1050px;
+	margin-top: -6000%;
+}
+#wade img{
+      width: 500px;
+	height: 700px;
+	margin-left: 515px;
+	margin-top: -1000%;
+}
+#wade1 img{
+	width: 500px;
+	height: 700px;
+	margin-left: 3px;
+	margin-top: -400px;
+}
+#yama1 img{
+	width: 500px;
+	height: 200%;
+	margin-left: 1005px;
+	margin-top: -1000%;
+}
+#banane img{
+	width: 500px;
+	height: 700px;
+	margin-left: 5px;
+	margin-top: -1px;
+}
+#beurre img{
+	width: 500px;
+	height: 700px;
+	margin-left: 600px;
+	margin-top: -700px;
+}
+#beurre1 img{
+	width: 400px;
+	height: 700px;
+	margin-left: 1150px;
+	margin-top: -1000px;
+}
+#baba img{
+	width: 500px;
+	height: 700px;
+	margin-left: 5px;
+	margin-top: -1px;
+}
+#baba1 img{
+	width: 500px;
+	height: 700px;
+	margin-left: 600px;
+	margin-top: -600px;
+}
+#babacar img{
+	width: 500px;
+	height: 600px;
+	margin-left: 1150px;
+	margin-top: -800px;
+}
+#babacar1 img{
+	width: 500px;
+	height: 700px;
+	margin-left: 5px;
+	margin-top: 0px;
+}
+#ana img{
+	width: 500px;
+	height: 700px;
+	margin-left: 600px;
+	margin-top: -700px;
+}
+#ana1 img{
+	width: 500px;
+	height: 700px;
+	margin-left: 1150px;
+	margin-top: -700px;
+}
+#miel img{
+	width: 500px;
+	height: 700px;
+	margin-left: 5px;
+	margin-top: 1px;
+}
+#honey img{
+	width: 500px;
+	height: 700px;
+	margin-left: 600px;
+	margin-top: -690px;
+}
+#sweety img{
+	width: 450px;
+	height: 700px;
+	margin-left: 1150px;
+	margin-top: -697px;
+}
+.love{
+	background-color: black;
+	text-align: center;
+	border-radius: 20px;
+	color: white;
+}

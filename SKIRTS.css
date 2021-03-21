@@ -1,0 +1,187 @@
+*{
+	padding: 0;
+	margin:0;
+	text-decoration: none;
+	font-family: cursive;
+}
+.mané{
+	width: 100%;
+	background-color:purple;
+    padding:15px auto;
+	position: fixed;
+	height: 60px;
+}
+.mané .maria{
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+}
+.yama a {
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+}
+.yama a span{
+	color: pink;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li{
+	display: inline-block;
+}
+.menu li a{
+	color:white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+}
+.menu li a:hover{
+	color: pink;
+
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .sous{
+	display: block;
+}
+.sous li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.aicha{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .aicha{
+	display: block;
+}
+.aicha li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.khady{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .khady{
+	display: block;
+}
+.khady li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.MA{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .MA{
+	display: block;
+}
+.MA li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.ouly{
+	display: none;
+	position: absolute;
+}
+.menu li:hover .ouly{
+	display: block;
+}
+.ouly li{
+	border: 2px solid black;
+	text-align: center;
+	width: 100%;
+	background-color: black;
+}
+.maria img{
+	width: 500px;
+	height: 700px;
+	margin-top: 7px;
+	margin-left: 5px;
+}
+.yama img{
+	width: 500px;
+	height: 700px;
+	margin-top: -1000px;
+	margin-left: 590px;
+}
+.mai img{
+	width: 460px;
+	height: 700px;
+	margin-top: -1000px;
+	margin-left: 1150px;
+}
+.mana img{
+	width: 460px;
+	height: 700px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+.mariam img{
+	width: 460px;
+	height: 700px;
+	margin-top: -1150px;
+	margin-left: 600px;
+}
+.mariama img{
+	width: 460px;
+	height: 700px;
+	margin-top: -1150px;
+	margin-left: 1150px;
+}
+.marichou img{
+	width: 460px;
+	height: 700px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+.ndeye img{
+	width: 460px;
+	height: 700px;
+	margin-top: -1150px;
+	margin-left: 600px;
+}
+.coumba img{
+	width: 460px;
+	height: 700px;
+	margin-top: -1150px;
+	margin-left: 1150px;
+}
+.mami img{
+	width: 460px;
+	height: 700px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+.ami img{
+	width: 460px;
+	height: 700px;
+	margin-top: -1150px;
+	margin-left: 600px;
+}
+.ana img{
+	width: 460px;
+	height: 700px;
+	margin-top: -1150px;
+	margin-left: 1150px;
+}
+.love{
+	background-color: black;
+	text-align: center;
+	border-radius: 20px;
+	color: white;
+}

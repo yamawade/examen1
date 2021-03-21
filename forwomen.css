@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin:0;
+	text-decoration: none;
+	font-family: cursive;
+}
+#yama img{
+	width: 500px;
+	height: 700px;
+	margin-top: 7px;
+	margin-left: 5px;
+}
